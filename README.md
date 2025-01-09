@@ -13,8 +13,8 @@ Hey there! I'm Muhammad Uzair, a computer engineer with a passion for creating e
 - CMS: WordPress
 
 📫 **Contact me:**
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+- Email: [your.email@example.com](uzair.dev.official@gmail.com)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/muhammad-uzair17/)
 
 ---
 
